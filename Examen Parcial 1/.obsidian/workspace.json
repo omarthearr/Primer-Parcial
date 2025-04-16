@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "60f2428a7accee25",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e8e9973952a63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199fb6c81e4887c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/03 - head-dump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - head-dump"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b36bbeaf05a0ccd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86317bb0948d5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fd4ecbe171c33d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df39387eb82ecf56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3992286b1d6881d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc27e6aeb9deffa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5018117ed7c6f5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada8bc7eb270cc11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/03 - head-dump.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 - head-dump"
+            }
+          },
+          {
+            "id": "f5411be855d1196c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web/03 - head-dump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 - head-dump"
+            }
+          },
+          {
+            "id": "6a8a9aa5128db20b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2758391520b18962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/03 - head-dump.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 - head-dump"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "199fb6c81e4887c1",
+  "lastOpenFiles": [
+    "Web/02 - Cookie Monster.md",
+    "Web/08 - SQL Direct.md",
+    "Web/09 - SSTI2.md",
+    "Web/10 - WebSockFish.md",
+    "Web/03 - head-dump.md",
+    "General Skills/02 - HashingJobApp.md",
+    "General Skills/07 - dont-you-love-banners.md"
+  ]
+}
