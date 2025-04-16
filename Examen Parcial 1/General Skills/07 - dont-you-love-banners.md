@@ -60,3 +60,7 @@ what is the password?
 
 
 ## Respuesta: **picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_8126c9b0}**
+
+
+###### Referencias: 
+**[https://www.youtube.com/watch?v=M6N0IBIDp-Q](https://www.youtube.com/watch?v=M6N0IBIDp-Q)**

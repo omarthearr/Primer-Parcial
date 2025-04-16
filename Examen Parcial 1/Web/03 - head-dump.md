@@ -44,3 +44,7 @@ picoCTF{Pat!3nt_15_Th3_K3y_305d5b9a}
 
 
 ## Respuesta: **picoCTF{Pat!3nt_15_Th3_K3y_305d5b9a}**
+
+
+###### Referencias: 
+**[https://www.youtube.com/watch?v=ks60T3_ccAo](https://www.youtube.com/watch?v=ks60T3_ccAo)**

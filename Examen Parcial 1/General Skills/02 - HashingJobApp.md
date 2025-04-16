@@ -62,4 +62,6 @@ Output: 98b0ee4dfd8e04322c60bd32481b512e
 ## Respuesta: **picoCTF{4ppl1c4710n_r3c31v3d_bf2ceb02}**
 
 
-###### Referencias: https://gchq.github.io/CyberChef/
+###### Referencias: 
+https://gchq.github.io/CyberChef/
+**[https://www.youtube.com/watch?v=NusXjfEHsOs](https://www.youtube.com/watch?v=NusXjfEHsOs)** 

@@ -24,3 +24,7 @@ Arriba del tablero de ajedrez cambiará el texto y mostrará la bandera dentro d
 
 
 ## Respuesta: **picoCTF{c1i3nt_s1d3_w3b_s0ck3t5_46c33d0c}**
+
+
+###### Referencias: 
+**[https://www.youtube.com/watch?v=xqopwb8Iv90](https://www.youtube.com/watch?v=xqopwb8Iv90)**
